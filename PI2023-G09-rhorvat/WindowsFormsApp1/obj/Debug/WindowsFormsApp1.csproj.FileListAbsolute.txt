@@ -1,0 +1,15 @@
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmLogin.resources
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\bin\Debug\DBLayer.dll
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmEvaluation.resources
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmStudents.resources
+C:\Users\Fran\source\repos\PI2023-G1-fgabaldo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
