@@ -21,12 +21,12 @@ namespace Evaluation_Manager
             InitializeComponent();
         }
 
-        public static Teacher LockTeacher { get; set; }
+       // public static Teacher LockTeacher { get; set; }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
 
-            if (LockTeacher != null)
+            //if (LockTeacher != null)
 
                 if (txtUsername.Text == "")
                 {
@@ -39,7 +39,7 @@ namespace Evaluation_Manager
                 else
                 {
                     LoggedTeacher = TeacherRepository.GetTeacher(txtUsername.Text);
-                    if (LoggedTeacher != null && LoggedTeacher.CheckPassword(txtPassword.Text))
+                    if (LoggedTeacher != null && LoggedTeacher.Password == txtPassword.Text)
                     {
                         FrmStudents frmStudents = new FrmStudents();
                         Hide();
@@ -51,6 +51,10 @@ namespace Evaluation_Manager
                         MessageBox.Show("Krivi podaci!", "Problem", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     }
                 }
+        }
+
+        private void FrmLogin_Load(object sender, EventArgs e) {
+
         }
     }
 }
