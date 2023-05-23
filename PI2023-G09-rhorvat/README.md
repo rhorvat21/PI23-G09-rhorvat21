@@ -1,1 +1,0 @@
-# PI2023-G1-fgabaldo
